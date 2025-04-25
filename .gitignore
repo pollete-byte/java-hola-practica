@@ -1,0 +1,17 @@
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos compilados de Java
+*.class
+
+# Ignorar archivos comprimidos
+*.zip
+*.jar
+
+# Ignorar archivos de configuración de entorno
+*.env
+
+# Ignorar carpetas de IDEs
+.vscode/
+.idea/
+*.iml

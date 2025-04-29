@@ -4,7 +4,7 @@ Este repositorio contiene una práctica para aprender a colaborar usando Git y G
 
 ## Miembros del equipo
 - Mario  
-- Edu
+- Eduardo
   
 
 ## Cómo arrancar el proyecto
